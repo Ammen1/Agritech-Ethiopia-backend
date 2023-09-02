@@ -11,6 +11,7 @@
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
+- [Disease](#DiseasePredictionSystem)
 
 ## Overview
 
@@ -45,6 +46,22 @@ Welcome to **Agritech Ethiopia**, a revolutionary project aimed at transforming 
 **Security and Privacy:** We take data security seriously, ensuring your personal information is handled securely and your privacy is maintained.
 
 **Local Language Support:** To make the platform accessible to a wider user base, we offer support in local languages spoken in Ethiopia.
+
+## Disease Prediction System
+
+Our project includes an advanced disease prediction system that helps farmers identify diseases affecting their agricultural products. This system covers a variety of crops, including tomato, potato, coffee leaf, and more. Here's how it works:
+
+- **Upload Image:** Users can upload images of their crops or leaves that show signs of disease.
+
+- **AI-Based Diagnosis:** We utilize cutting-edge AI models, including ResNet and custom-trained models, to analyze the uploaded images and identify potential diseases.
+
+- **Timely Recommendations:** Once the disease is identified, our system provides timely recommendations for treatment or prevention. This information is crucial for farmers to take appropriate action to protect their crops.
+
+- **Multiple Crop Support:** Our disease prediction system is versatile and supports various crops commonly found in Ethiopia, ensuring that farmers receive accurate guidance for their specific agricultural needs.
+
+This system enhances our platform's value by providing farmers with a powerful tool to address crop diseases promptly and effectively, ultimately improving crop yields and agricultural practices.
+
+[Include any additional details or instructions related to your disease prediction system.]
 
 ## Technical Stack
 
