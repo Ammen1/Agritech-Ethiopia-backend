@@ -47,7 +47,7 @@ Welcome to **Agritech Ethiopia**, a revolutionary project aimed at transforming 
 
 **Local Language Support:** To make the platform accessible to a wider user base, we offer support in local languages spoken in Ethiopia.
 
-## Disease Prediction System
+## DiseasePredictionSystem
 
 Our project includes an advanced disease prediction system that helps farmers identify diseases affecting their agricultural products. This system covers a variety of crops, including tomato, potato, coffee leaf, and more. Here's how it works:
 
